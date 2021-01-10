@@ -1,0 +1,1 @@
+# Django_projeckt_news-sing-and-protects
